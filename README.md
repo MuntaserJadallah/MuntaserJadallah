@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning Web Dev
 - 💞️ I’m looking to collaborate on great success
 - 📫 How to reach me wellcome
+- Start learning laravel....
