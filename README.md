@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @MuntaserJadallah
-- 👀 I’m interested in software development speciay on web
-- 🌱 I’m currently learning Web Dev
-- 💞️ I’m looking to collaborate on great success
-- 📫 How to reach me wellcome
-- Start learning laravel....
+Muntaser Jadallah
+Senior Software Engineer at MBS-Technology. Interested in programming since I was 19years old,Iam self-taught programmer and CEO of the MBS-Technology.
+I have a great passion for teaching programming matrials
+thanks for viseting my profile
