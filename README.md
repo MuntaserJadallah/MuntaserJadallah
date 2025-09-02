@@ -1,4 +1,11 @@
-Muntaser Jadallah
-Senior Software Engineer at MBS-Technology and EVE_SOFT. Interested in programming since I was 19years old,Iam self-taught programmer and CEO of the MBS-Technology.
-I have a great passion for teaching programming matrials
-thanks for viseting my profile
+👋 Hi, I'm a Software Engineer specializing in:
+
+🖥️ Desktop apps with C# + MySQL
+
+🌐 Web apps with PHP/Laravel + MySQL
+
+🎨 Front-end: Bootstrap, CSS3, jQuery
+
+🔬 Academic background in teaching & supervising projects.
+🚀 Experience in startups and enterprise systems (healthcare, labs, inventory, business platforms).
+💡 Passionate about creating innovative software solutions.
