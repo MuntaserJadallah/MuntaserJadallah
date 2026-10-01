@@ -1,31 +1,29 @@
-👋 Hi, I'm MUNTI — Software Engineer & University Lecturer.
+# 👋 Hi, I'm Muntaser Jadallah
 
-💻 **Backend & Web Development**
+💻 **Software Engineer | University Lecturer**
 
-* PHP • Laravel • MySQL
-* RESTful APIs & Web Applications
-* HTML5 • CSS3 • Bootstrap • JavaScript • jQuery
+I build practical and scalable software solutions for businesses, organizations, and startups.
 
-🖥️ **Desktop Development**
+### 🛠️ Technologies & Skills
 
-* C# • .NET • MySQL
-* Business & Enterprise Applications
+* 🌐 **Web Development:** PHP • Laravel • MySQL
+* 🖥️ **Desktop Development:** C# • .NET • MySQL
+* 🎨 **Front-End:** HTML5 • CSS3 • Bootstrap • JavaScript • jQuery
+* 🗄️ **Databases:** MySQL • SQL Server
+* 🔧 **Tools:** Git • UML • Software Project Management
 
-🗄️ **Databases**
+### 🚀 Areas of Experience
 
-* MySQL • SQL Server
-* Database Design & Management
-
-🚀 **Experience**
-
-* Healthcare & Laboratory Systems
+* Healthcare & Laboratory Management Systems
 * Business Management Systems
 * Inventory & POS Solutions
-* Custom Software for Startups & Organizations
+* Custom Web & Desktop Applications
+* Database Design & Management
 
-🎓 **Academic**
+### 🎓 Academic
 
 * M.Sc. in Information Technology — Thesis Stage
+* B.Sc. (Hons) in Information Technology
 * University Lecturer & Project Supervisor
 
-💡 Passionate about building practical, scalable, and user-friendly software solutions that solve real-world problems.
+💡 **Passionate about turning real-world requirements into reliable, user-friendly software solutions.**
