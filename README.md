@@ -1,11 +1,31 @@
-👋 Hi, I'm a Software Engineer specializing in:
+👋 Hi, I'm MUNTI — Software Engineer & University Lecturer.
 
-🖥️ Desktop apps with C# + MySQL
+💻 **Backend & Web Development**
 
-🌐 Web apps with PHP/Laravel + MySQL
+* PHP • Laravel • MySQL
+* RESTful APIs & Web Applications
+* HTML5 • CSS3 • Bootstrap • JavaScript • jQuery
 
-🎨 Front-end: Bootstrap, CSS3, jQuery
+🖥️ **Desktop Development**
 
-🔬 Academic background in teaching & supervising projects.
-🚀 Experience in startups and enterprise systems (healthcare, labs, inventory, business platforms).
-💡 Passionate about creating innovative software solutions.
+* C# • .NET • MySQL
+* Business & Enterprise Applications
+
+🗄️ **Databases**
+
+* MySQL • SQL Server
+* Database Design & Management
+
+🚀 **Experience**
+
+* Healthcare & Laboratory Systems
+* Business Management Systems
+* Inventory & POS Solutions
+* Custom Software for Startups & Organizations
+
+🎓 **Academic**
+
+* M.Sc. in Information Technology — Thesis Stage
+* University Lecturer & Project Supervisor
+
+💡 Passionate about building practical, scalable, and user-friendly software solutions that solve real-world problems.
